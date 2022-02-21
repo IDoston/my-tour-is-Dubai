@@ -1,7 +1,7 @@
 var result=prompt("qancha pulingiz bor")
 
 var usdToUzs=(750*10900);
-var euroToUzs=(120*12272);
+var euroToUzs=(120*12272.64);
 var isTotal = (usdToUzs + euroToUzs)
 
 if(result >= isTotal){
